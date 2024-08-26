@@ -12,8 +12,7 @@ CVE Notifier is a Golang application that fetches the latest Common Vulnerabilit
 ## Requirements
 
 - [Go](https://golang.org/dl/) 1.16 or later
-- A Discord bot token
-- A Discord channel ID
+- A Discord Webhocks token
 
 ## Installation
 
